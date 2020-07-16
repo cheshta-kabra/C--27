@@ -1,7 +1,1 @@
-
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/c27-OscillatingPendulum/
+### Output Link : http://127.0.0.1:5501/
